@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Astroblast Real.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down0000" x="0" y="0" width="509" height="463" frameX="-7" frameY="0" frameWidth="524" frameHeight="463"/>
+	<SubTexture name="Down0001" x="509" y="0" width="524" height="440" frameX="0" frameY="-11" frameWidth="524" frameHeight="463"/>
+	<SubTexture name="Down0002" x="0" y="0" width="509" height="463" frameX="-7" frameY="0" frameWidth="524" frameHeight="463"/>
+	<SubTexture name="Idle0000" x="1033" y="0" width="554" height="496"/>
+	<SubTexture name="Idle0001" x="0" y="496" width="554" height="463" frameX="0" frameY="-27" frameWidth="554" frameHeight="496"/>
+	<SubTexture name="Idle0002" x="554" y="496" width="554" height="471" frameX="0" frameY="-19" frameWidth="554" frameHeight="496"/>
+	<SubTexture name="Left0000" x="1108" y="496" width="404" height="500"/>
+	<SubTexture name="Left0001" x="1512" y="496" width="365" height="500" frameX="-4" frameY="0" frameWidth="404" frameHeight="500"/>
+	<SubTexture name="Left0002" x="1108" y="496" width="404" height="500"/>
+	<SubTexture name="Right0000" x="0" y="996" width="440" height="491"/>
+	<SubTexture name="Right0001" x="440" y="996" width="408" height="491" frameX="-24" frameY="0" frameWidth="440" frameHeight="491"/>
+	<SubTexture name="Right0002" x="0" y="996" width="440" height="491"/>
+	<SubTexture name="Up0000" x="848" y="996" width="446" height="516" frameX="0" frameY="-16" frameWidth="446" frameHeight="537"/>
+	<SubTexture name="Up0001" x="1294" y="996" width="433" height="537" frameX="-6" frameY="0" frameWidth="446" frameHeight="537"/>
+	<SubTexture name="Up0002" x="848" y="996" width="446" height="516" frameX="0" frameY="-16" frameWidth="446" frameHeight="537"/>
+</TextureAtlas>
